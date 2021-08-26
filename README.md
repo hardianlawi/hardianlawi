@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**hardianlawi/hardianlawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 I’m currently building a platform where users could discourse productively and in trustworth manner. (Full-time)
+- 👯 I’m looking to collaborate on any "high impact" projects such as open-source ML tools, kaggle, and so forth.
 
-Here are some ideas to get you started:
+## Stats Right Now!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Hardian's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardianlawi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages That I Use!
+
+[![Top Langs](https://github-readme-stats.adryinkcartridge.vercel.app/api/top-langs/?username=hardianlawi&layout=compact)](https://github.com/ADryInkCartridge/github-readme-stats)
+
+### Wakatime For Personal Motivation
+
+[![Hardian's wakatime stats](https://github-readme-stats.adryinkcartridge.vercel.app/api/wakatime?username=hardianlawi)](https://github.com/ADryInkCartridge/github-readme-stats)
