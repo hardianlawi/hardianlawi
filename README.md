@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 I’m currently building a platform where users could discourse productively and in trustworth manner. (Full-time)
+- 👨🏻‍💻 I’m currently building a platform where users could discourse productively and in trustworthy manner. (Full-time)
 - 👯 I’m looking to collaborate on any "high impact" projects such as open-source ML tools, kaggle, and so forth.
 
 ## Stats Right Now!
