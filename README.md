@@ -10,7 +10,3 @@
 ### Languages That I Use!
 
 [![Top Langs](https://github-readme-stats.adryinkcartridge.vercel.app/api/top-langs/?username=hardianlawi&layout=compact)](https://github.com/ADryInkCartridge/github-readme-stats)
-
-### Wakatime For Personal Motivation
-
-[![Hardian's wakatime stats](https://github-readme-stats.adryinkcartridge.vercel.app/api/wakatime?username=hardianlawi)](https://github.com/ADryInkCartridge/github-readme-stats)
