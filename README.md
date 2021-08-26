@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 👨🏻‍💻 I’m currently building a platform where users could discourse productively and in trustworthy manner. (Full-time)
-- 👯 I’m looking to collaborate on any "high impact" projects such as open-source ML tools, kaggle, and so forth.
+- 👯 I’m looking to collaborate on any "high impact" projects such as open-source ML tools, kaggle, trading and so forth.
+- 📚 Topics I'm interested in: applied ML and ML ops/system.
 
 ## Stats Right Now!
 
