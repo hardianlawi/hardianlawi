@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 I’m currently building a platform where users could discourse productively and in trustworthy manner. (Full-time)
 - 👯 I’m looking to collaborate on any "high impact" projects such as open-source ML tools, kaggle, trading and so forth.
-- 📚 I'm interested in applied ML, ML ops/system, and investing.
+- 📚 I'm interested in applied ML, ML ops/system, trading and investing.
 
 ## Stats Right Now!
 
