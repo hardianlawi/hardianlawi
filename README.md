@@ -10,4 +10,4 @@
 
 ### Languages That I Use!
 
-[![Top Langs](https://github-readme-stats.adryinkcartridge.vercel.app/api/top-langs/?username=hardianlawi&layout=compact)](https://github.com/ADryInkCartridge/github-readme-stats/?hide=jupyter%20notebook)
+[![Top Langs](https://github-readme-stats.adryinkcartridge.vercel.app/api/top-langs/?username=hardianlawi&layout=compact)](https://github.com/ADryInkCartridge/github-readme-stats/?&hide=Jupyter Notebook)
