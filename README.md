@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 I’m currently working full-time in a startup building a [platform](sembly.com) for productive discourse with purpose.
+- 👨🏻‍💻 I’m currently working full-time in a startup building a [platform](https://sembly.com/) for productive discourse with purpose.
 - 👯 I’m looking to collaborate on any "high impact" projects such as open-source ML tools, kaggle, etc.
 - 📚 I'm interested in applied ML, ML ops/system, trading and investing.
 
